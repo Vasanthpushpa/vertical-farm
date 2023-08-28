@@ -206,6 +206,7 @@ p{
 }
 .ft{
     color: black;
+    font-family: myfont1;
 
 }
 
@@ -497,4 +498,8 @@ body > div.bottom > div.content-left > div > h2.f.fs > b{
     position: relative;
     left: 300px;
     top: 25px;
+}
+
+body > div.bottom > div.content-left > div > h2.f.ft > b{
+    font-family: myfont1;
 }
